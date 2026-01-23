@@ -48,7 +48,7 @@ Imports:
     dplyr,
     forcats,
     ggiraph,
-    ggplot2,
+    ggplot2 (>= 3.4.0),
     ggpubr,
     ggtext,
     lifecycle,
